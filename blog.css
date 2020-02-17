@@ -1,0 +1,29 @@
+
+h1{
+    margin-top: 8%;
+    text-align: center;
+    font-size: 45px;
+
+}
+ 
+h2{
+    text-align: center;
+    font-size: 18px;
+    margin-left:25% ;
+    margin-right: 25%;
+}
+img {
+    position:-webkit-sticky;
+    position: sticky;
+    top:0%;
+    width: 30%;
+    height: 45%;
+    margin-left: 750px;
+}
+p{
+    margin-right: 35%;
+    text-align: left;
+    margin-top: 0%;
+    margin-left: 5%;
+    
+}
